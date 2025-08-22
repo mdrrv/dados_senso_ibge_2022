@@ -86,8 +86,9 @@ Projeto livre para uso acadêmico e pessoal.
 ## 👤 Autor
 **Vinicius Madureira**
 
-[LinkedIn](https://www.linkedin.com/in/viniciusmadureira/) | [GitHub](https://github.com/viniciusmadureira)
+[LinkedIn](https://www.linkedin.com/in/madureirav/) | [GitHub](https://github.com/mdrrv)
 
 ---
 
 > **Dica:** Para personalizar filtros, faixas etárias ou variáveis, edite o script `censo_2022.py` conforme sua necessidade!
+
